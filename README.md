@@ -7,6 +7,9 @@ Paste your latex in the file "paste_latex_here"
 
 run: python counter.py
 
+##### Dependencies 
+* python (v >3.0)
+* os package
 
 ### QUESTIONS?
 Please email shaun_wallace@brown.edu or post issues in GitHub with any questions.
