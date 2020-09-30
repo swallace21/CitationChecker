@@ -1,0 +1,21 @@
+testing lorem ipsum
+
+\section{IPSUM TEST}
+
+\begin{document}
+
+\cite{a,b} testing lorem % \cite{bad1}
+
+you should see this -> \cite{one1991a}
+
+\cite{c,d} testing lorem \% \cite{good1}
+
+\cite{one1991a,two1992b} testing lorem ipsumtesting lorem ipsumtesting lorem ipsumtesting lorem ipsumtesting lorem ipsumtesting lorem ipsumtesting lorem ipsumtesting lorem ipsumtesting lorem ipsumtesting lorem ipsumtesting lorem ipsumtesting lorem ipsumtesting lorem ipsumtesting lorem ipsumtesting lorem ipsumtesting lorem ipsumtesting lorem ipsumtesting lorem ipsumtesting lorem ipsum
+
+%do not read me
+
+\cite{one1991a,three1993c}
+testing testing
+\cite{three1993c} text in the middle \cite{three1993c,three1994d}
+
+a b c d .
